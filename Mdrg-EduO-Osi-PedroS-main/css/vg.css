@@ -1,0 +1,33 @@
+header{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(90deg, #544e68 0%, 
+    #ffecd6 86%);
+    margin: -8px;
+    margin-bottom: 0;
+    color: #0d2b45;
+    font-size: 15px;
+}
+
+body{
+    background: linear-gradient(90deg, #544e68 0%, 
+    #ffecd6 86%);
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding: 1%;
+    padding-top: 0;
+    border-bottom: #8e7c74 1px solid;
+}
+a:link,a:visited{
+    text-decoration: none;
+    font-size: large;
+    padding: 22px 30px;
+    color: #0d2b45;
+}
+a:hover{
+    background:linear-gradient(to right, #f3d8ba46, 
+    #ffecd63b ); ;
+}
