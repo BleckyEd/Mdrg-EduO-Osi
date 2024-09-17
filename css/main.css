@@ -8,6 +8,9 @@ header{
     font-size: 15px;
 }
 h2{color: aliceblue;}
+h1{
+    text-align: center;
+    color: aliceblue;}
 body{
     background: linear-gradient(90deg, #240f05 0%, #955840 86%);
 }
@@ -46,4 +49,11 @@ a:link,a:visited{
 a:hover{
     background:#6d2f1263 ;
 }
-
+.mps{
+    display: flex;
+    justify-content: center;
+}
+.mp{
+    width: 800px;
+    height: 400px;
+}
